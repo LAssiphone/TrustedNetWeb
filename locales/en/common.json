@@ -1,0 +1,53 @@
+{
+    "ABOUT": "ABOUT",
+    "PROTECTION": "PROTECTION",
+    "TRUSTED": {
+        "GATE": "TRUSTED.GATE"
+    },
+    "Trusted": {
+        " Gate позволит управлять вашим оборудованием через из любой точки мира!": "",
+        "GATE - точка доступа Wi-Fi и роутер, с предустановленным ПО, для взаимодействия с Сервисом единой аутентификации Trusted": {
+            "Net, который можно использовать, как вместе с уже установленным оборудованием, так и заменив существующий роутер": "Trusted.GATE is a Wi-Fi hotspot with preinstalled software to interact with the service uniform authentication Trusted.Net, which can be used as a set with oburodovaniem and replacing an existing router"
+        }
+    },
+    "email": "",
+    "login": "login",
+    "Архивирование учетных данных согласно законодательству": "",
+    "Безопасное подключение к сети": "Connecting to a network",
+    "В связи с этим, необходимы соответствующие права, которые регилируют доступ пользователей к ресурсам": "In this regard, appropriate rights that govern access to resources of users",
+    "Вас заинтересовал наш сервис?": "You are interested in our service?",
+    "Ваше имя": "Name",
+    "Ввод номера телефона в сплывающем окне": "Entering a phone number in a popup window",
+    "Ввод пароля в появившемся окне": "Entering the password in the appropriate box",
+    "Вход": "Login",
+    "Выбор сети wi-fi": "Selecting the wi-fi network",
+    "Главная": "Home",
+    "Для  клиентов": "",
+    "Для владельцев сети": "How to connect to the network owners",
+    "Задать вопрос": "",
+    "Инструмент, который необходим Вашему бизнесу!": "The best tool for the development of your business",
+    "Контакты": "Contacts",
+    "Номер телефона": "Phone",
+    "О TRUSTED": {
+        "GATE": "About TRUSTED.GATE"
+    },
+    "ООО \"Цифровые технологии\"": "ООО \"Цифровые технологии\"",
+    "Оставьте ваши контактные данные  и наш специалист свяжется с Вами": "Then give us a call, write on e-mail, or simply fill out the form and our specialist will contact you",
+    "Отмена": "",
+    "Отправить": "",
+    "Передача административных прав (в сети) другому пользователю": "Transmission network management to another user",
+    "Подключение TRUSTED": "Connecting TRUSTED",
+    "Получение sms с одноразовым паролем": "Getting sms with the one-time password",
+    "Приобретение роутера": "The acquisition of the router",
+    "Простой и удобный интерфейс для автоматизации бизнеса": "The best tool for the development of your business",
+    "Регистрация на сервере": "Registration on a server",
+    "Решение для защиты Вашей Wi-Fi сети": "The solution, which protects your open network",
+    "Сеть открыта и защещина": "The network is open and protected",
+    "Удобный и быстрый доступ к WI-FI сети": "",
+    "Управление доступом": "Access control",
+    "заполните поле ниже, и наш оператор свяжется с Вами ": "",
+    "или": "",
+    "по телефону": "Phone",
+    "по электронной почте": "",
+    "создание и поддержка учетных записей пользователей, предоставление доступа к интернет-ресурсам": "User Management - Create and support user accounts, access to resources, user control"
+}
