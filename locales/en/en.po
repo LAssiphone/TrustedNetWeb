@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trusted\n"
+"POT-Creation-Date: 2016-08-30T22:02:12.613Z\n"
+"PO-Revision-Date: 2016-08-31 01:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ABOUT"
+msgstr "ABOUT"
+
+msgid "PROTECTION"
+msgstr "PROTECTION"
+
+msgid "TRUSTED##GATE"
+msgstr "TRUSTED.GATE"
+
+msgid ""
+"Trusted## Gate позволит управлять вашим оборудованием через из любой точки "
+"мира!"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Trusted##GATE - точка доступа Wi-Fi и роутер, с предустановленным ПО, для "
+"взаимодействия с Сервисом единой аутентификации Trusted##Net, который можно "
+"использовать, как вместе с уже установленным оборудованием, так и заменив "
+"существующий роутер"
+msgstr ""
+"Trusted.GATE is a Wi-Fi hotspot with preinstalled software to interact with "
+"the service uniform authentication Trusted.Net, which can be used as a set "
+"with oburodovaniem and replacing an existing router"
+
+msgid "email"
+msgstr ""
+
+msgid "login"
+msgstr "login"
+
+msgid "Архивирование учетных данных согласно законодательству"
+msgstr ""
+
+#, fuzzy
+msgid "Безопасное подключение к сети"
+msgstr "Connecting to a network"
+
+msgid ""
+"В связи с этим, необходимы соответствующие права, которые регилируют доступ "
+"пользователей к ресурсам"
+msgstr ""
+"In this regard, appropriate rights that govern access to resources of users"
+
+msgid "Вас заинтересовал наш сервис?"
+msgstr "You are interested in our service?"
+
+msgid "Ваше имя"
+msgstr "Name"
+
+msgid "Ввод номера телефона в сплывающем окне"
+msgstr "Entering a phone number in a popup window"
+
+#, fuzzy
+msgid "Ввод пароля в появившемся окне"
+msgstr "Entering the password in the appropriate box"
+
+msgid "Вход"
+msgstr "Login"
+
+msgid "Выбор сети wi-fi"
+msgstr "Selecting the wi-fi network"
+
+msgid "Главная"
+msgstr "Home"
+
+msgid "Для  клиентов"
+msgstr ""
+
+#, fuzzy
+msgid "Для владельцев сети"
+msgstr "How to connect to the network owners"
+
+msgid "Задать вопрос"
+msgstr ""
+
+#, fuzzy
+msgid "Инструмент, который необходим Вашему бизнесу!"
+msgstr "The best tool for the development of your business"
+
+msgid "Контакты"
+msgstr "Contacts"
+
+#, fuzzy
+msgid "Номер телефона"
+msgstr "Phone"
+
+msgid "О TRUSTED##GATE"
+msgstr "About TRUSTED.GATE"
+
+msgid "ООО \"Цифровые технологии\""
+msgstr "ООО \"Цифровые технологии\""
+
+#, fuzzy
+msgid "Оставьте ваши контактные данные  и наш специалист свяжется с Вами"
+msgstr ""
+"Then give us a call, write on e-mail, or simply fill out the form and our "
+"specialist will contact you"
+
+msgid "Отмена"
+msgstr ""
+
+msgid "Отправить"
+msgstr ""
+
+#, fuzzy
+msgid "Передача административных прав (в сети) другому пользователю"
+msgstr "Transmission network management to another user"
+
+msgid "Подключение TRUSTED"
+msgstr "Connecting TRUSTED"
+
+msgid "Получение sms с одноразовым паролем"
+msgstr "Getting sms with the one-time password"
+
+msgid "Приобретение роутера"
+msgstr "The acquisition of the router"
+
+#, fuzzy
+msgid "Простой и удобный интерфейс для автоматизации бизнеса"
+msgstr "The best tool for the development of your business"
+
+msgid "Регистрация на сервере"
+msgstr "Registration on a server"
+
+#, fuzzy
+msgid "Решение для защиты Вашей Wi-Fi сети"
+msgstr "The solution, which protects your open network"
+
+msgid "Сеть открыта и защещина"
+msgstr "The network is open and protected"
+
+msgid "Удобный и быстрый доступ к WI-FI сети"
+msgstr ""
+
+msgid "Управление доступом"
+msgstr "Access control"
+
+msgid "заполните поле ниже, и наш оператор свяжется с Вами "
+msgstr ""
+
+msgid "или"
+msgstr ""
+
+#, fuzzy
+msgid "по телефону"
+msgstr "Phone"
+
+msgid "по электронной почте"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"создание и поддержка учетных записей пользователей, предоставление доступа к "
+"интернет-ресурсам"
+msgstr ""
+"User Management - Create and support user accounts, access to resources, "
+"user control"
+
+#~ msgid "Ваш email"
+#~ msgstr "Email"
+
+#~ msgid "Как подключить для ваших клиентов"
+#~ msgstr "How to connect to your customers"
+
+#~ msgid ""
+#~ "Пользователь получает возможность выбора наиболее подходящего для него "
+#~ "способа идентификации"
+#~ msgstr ""
+#~ "The user is able to select the most appropriate for him to identify ways"
+
+#~ msgid "Связаться с нами"
+#~ msgstr "Connect with us"
+
+#~ msgid "Сеть которая может работать сама по себе, еще не придумана"
+#~ msgstr "The network which can operate on its own, not yet invented"
+
+#~ msgid "SECURITY"
+#~ msgstr "SECURITY"
+
+#~ msgid "render app"
+#~ msgstr "render app"
